@@ -4,3 +4,5 @@
 .idea/vcs.xml
 *.class
 hy_javastudy.iml
+.classpath
+.project
